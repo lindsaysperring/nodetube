@@ -1,8 +1,8 @@
 {
   "name": "nodetube-deploy",
   "description": "Open-source YouTube alternative that also supports image and audio uploads. Powered by NodeJS ",
-  "website": "https://github.com/mayeaux/nodetube",
-  "repository": "https://github.com/mayeaux/nodetube",
+  "website": "https://github.com/lindsaysperring/nodetube",
+  "repository": "https://github.com/lindsaysperring/nodetube",
   "success_url": "/",
   "keywords": [
     "youtube",
