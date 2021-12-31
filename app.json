@@ -11,8 +11,7 @@
   ],
   "addons": [
     "papertrail",
-    "heroku-redis",
-    "mongolab"
+    "heroku-redis"
   ],
   "env": {
     "NODE_ENV": {
